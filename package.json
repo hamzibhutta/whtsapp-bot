@@ -1,13 +1,13 @@
 {
-  "name": "raganork-md",
+  "name": "Jackson",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name Jackson"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "https://www.facebook.com/profile.php?id=100064738515304"
   },
   "overrides": {
     "raganork-bot": {
@@ -19,8 +19,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Jackson",
+  "developer": "@jackson346",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
